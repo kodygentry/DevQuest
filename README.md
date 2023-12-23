@@ -64,7 +64,9 @@ Project Link: [DevQuest on GitHub](https://github.com/kodygentry/DevQuest)
 
 - **Kody Gentry** - Producer and Lead Developer
 - **Nate Perry** - Lead SFX and Sound Design Engineer
-- **Pierce Herchedy** - 2D and UI Artist
-- **Brian Sherman** - Level Design Engineer
-- **Alex Sexton** - Play Tester and Game Concept Designer
-- **Tucker Corn** - Developer and Play Tester
+- **Pierce Hershede** - Lead Artist
+- **Brian Sherman** - Lead Senior Art Director Manager CEO
+- **Alex Sexton** - QA Lead
+- **Tucker Corn** - Guy 1
+- **Jon Saal** - Guy 1.5
+- **Josh Dechert** - Guy 2
